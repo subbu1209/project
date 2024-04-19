@@ -1,1 +1,2 @@
 this is new file
+it is duplicat file
